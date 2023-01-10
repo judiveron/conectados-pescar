@@ -9,7 +9,7 @@ const social = [
     spanclassname: 'colorsocialG social-img',
   },
   {
-    path: 'https://www.instagram.com/bancodealimentosbalcarce/',
+    path: 'https://www.instagram.com/conectados.fundation/',
     name: 'Instagram',
     classname: 'icon instagram',
     iclassname: 'fig fig-instagram',

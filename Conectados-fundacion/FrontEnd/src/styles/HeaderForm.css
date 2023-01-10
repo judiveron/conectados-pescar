@@ -88,7 +88,7 @@
 }
 
 .hForm {
-  background-color: #F08FC0;
+  background-color: #2EC5CE ;
   position: absolute;
   margin-top: -100px;
   margin-left: 140px;
@@ -103,7 +103,7 @@
 
 .submitButtonFormEmpresas {
   padding-top: 40px;
-  padding-left: 240px;
+  padding-left: 260px;
 }
 
 .formDonante{ /*caja formulario*/
@@ -144,7 +144,7 @@
   text-align: center;
   font-weight: 700;
   font-size: 24px;
-  background-color: #F08FC0;
+  background-color: #d4f9fb;
   color: #ffff;
   top: 170px;
   left: 0px;
