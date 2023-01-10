@@ -22,19 +22,22 @@ a {
 
 .header-h4 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 30px;
   line-height: 40px;
-  color: black;
+  color: #F08FC0;
   margin-left: 100px;
+  padding-top: 40px;
 }
+
 .p-new {
   font-weight: 400;
   font-size: 18px;
   line-height: 32px;
   width: 400px;
   margin-left: 100px;
+  padding-top: 20px;
 }
-
+/*
 @media screen and (min-width: 360px) and (max-width: 768px) {
   .p-new {
     font-size: 10px;
@@ -60,3 +63,4 @@ a {
     margin-bottom: 100px;
   }
 }
+*/

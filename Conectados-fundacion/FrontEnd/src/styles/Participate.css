@@ -74,7 +74,7 @@
   width: 508px;
   height: 76px;
   margin-left: 100px;
-  margin-top: 83px;
+  margin-top: 140px;
   font-weight: 800;
   font-size: 40px;
   line-height: 54px;
@@ -90,6 +90,7 @@
   line-height: 26px;
   text-align: center;
 }
+
 .header-h3-d {
   color: #FFBCBC;
   width: 508px;
@@ -98,7 +99,7 @@
   font-weight: 800;
   font-size: 40px;
   line-height: 54px;
-  margin-top: -400px;
+  margin-top: -300px;
   text-align: center;
 }
 .parrafo-d {

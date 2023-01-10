@@ -11,7 +11,7 @@ const Contact = () => {
         <img src={Fondo2} alt="" className="fondo3" />
         <div className="containerContact p-5">
           <a
-            href="https://donaronline.org/banco-de-alimentos-balcarce-asociacion-civil/menos-hambre-mas-futuro"
+            href=""
             target="_blank"
             rel="no reference noreferrer"
             className="redirect"

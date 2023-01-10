@@ -7,7 +7,6 @@ import bal from '../assets/bal.png';
 import FooterComponent from '../components/container/FooterComponent';
 import ModalComponent from '../components/container/ModalComponent';
 import Content from '../components/Content';
-import juegos from '../assets/juegos.png';
 const Home = () => {
   return (
     <Fragment>

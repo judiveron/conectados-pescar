@@ -4,7 +4,7 @@ import ImgA from '../assets/6.jpg';
 import ImgB from '../assets/12.jpg';
 import ImgC from '../assets/5.jpg';
 import ImgD from '../assets/10.jpg';
-import ImgE from '../assets/7.png';
+import ImgE from '../assets/11.jpeg';
 import ImgF from '../assets/8.jpeg';
 import FooterComponent from '../components/container/FooterComponent';
 
@@ -14,8 +14,8 @@ const News = () => {
       <div className="container container-news">
         <h1 className="col-12 text-center headerh1">Novedades</h1>
 
-        <div className="row  ">
-          <div className="col-lg-6  col-sm-12 col-xs-12">
+        <div className="row ">
+          <div className="cards col-lg-6  col-sm-6 col-xs-6">
             <img className="img-news" src={ImgA} alt="" />
             <h4 className="header-h4">
               Juguetes didácticos
