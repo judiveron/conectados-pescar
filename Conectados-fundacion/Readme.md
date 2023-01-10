@@ -1,5 +1,5 @@
 # Conectados 🙌 - Fundacion de Caridad  🎁
-
+Link de deploy: https://conectados-fundacion.netlify.app/
 
 ## Descripción
 
@@ -27,7 +27,7 @@ Si quieres correr este proyecto de forma local debes seguir los siguientes pasos
 
 ## Diseño Ux-UI
 
-* ***Figma*** https://www.figma.com/file/iduRJzyRea0PZHlGARZPxY/Untitled?node-id=3%3A592&t=9qsnv7VirDjgczZv-1 
+* ***Figma***(https://www.figma.com/file/iduRJzyRea0PZHlGARZPxY/Untitled?node-id=3%3A592&t=9qsnv7VirDjgczZv-1 )
 
 ## Equipo de Trabajo :
 * Gabriela Quispe ***Back-end Developer***
