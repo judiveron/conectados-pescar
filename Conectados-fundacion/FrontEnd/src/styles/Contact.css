@@ -1,0 +1,58 @@
+.responsiveContactContainer {
+  width: 100%;
+}
+
+.contacTitle {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  padding-top: 80px;
+}
+
+.containerContact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  top: 40%;
+  left: 27%;
+  margin-top: 80px;
+
+  gap: 20px;
+}
+
+.redirect {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: white;
+  background-color: #F08FC0;
+  width: 550px;
+  height: 50px;
+  border-radius: 8px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.redirect:hover {
+  color: white;
+  transform: scale(1.1, 1.1);
+}
+
+.fondo3 {
+  left: 0;
+  width: var(--one-hundred-percent);
+  height: 900px;
+  z-index: -1;
+}
+
+/*
+@media screen and (min-width: 769px) and (max-width: 1366px) {
+  .containerContact {
+    margin-top: 100px;
+  }
+  .contacTitle {
+    margin-top: 70px;
+  }
+}
+*/

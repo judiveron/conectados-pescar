@@ -1,0 +1,10 @@
+.btn-success {
+  --bs-btn-border-color: none;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #F08FC0 ;
+  --bs-btn-hover-border-color: #F08FC0 ;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #FFBCBC;
+  --bs-btn-active-border-color: none;
+  --bs-btn-bg: #FFBCBC;
+}

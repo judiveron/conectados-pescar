@@ -1,0 +1,248 @@
+.minForm{
+  height: 760px;
+  padding: 20px 40px;
+  text-align: left;
+  margin-top: 30px;
+}
+
+.logoFundacion {
+  width: 100px;
+  height: 100px;
+}
+
+.contBtnType {
+  position: absolute;
+  top: 230px;
+  left: 160px;
+}
+
+.form-minorista {
+  position: absolute;
+  top: 150px;
+  left: 0px;
+}
+
+/*DonateFoodForm.tsx*/
+
+.divfoodDonate {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.foodDonateForm {
+  width: 520px;
+  border: none;
+  margin-left: -27px;
+  outline: none;
+  background-color: #FFBCBC;
+  border-bottom: 1px solid black;
+  border-radius: 10px;
+  padding-left: 15px;
+}
+
+
+.label-form {
+  margin-left: -20px;
+}
+
+.check-form{
+  margin-top: 120px;
+  margin-left: -90px;
+}
+
+.select-food {
+  margin-top: 10px;
+}
+
+.select-text {
+  position: absolute;
+  margin-top: -25px;
+}
+
+
+/*containerEmpresa.tsx*/
+.forMayoMin{
+  background-image: url('../assets/fondo4.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 1000px;
+  padding: 20px 360px;
+}
+
+.form {
+  display: flex;
+}
+
+.logoFundacion5 {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.pTitulo7 {
+  margin-left: 40px;
+  padding-top: 26px;
+  padding-right: 100px;
+}
+
+.hForm {
+  background-color: #F08FC0;
+  position: absolute;
+  margin-top: -100px;
+  margin-left: 140px;
+  
+}
+
+.contBtnType2 {
+  position: absolute;
+  top: 350px;
+  left: 890px;
+}
+
+.submitButtonFormEmpresas {
+  padding-top: 40px;
+  padding-left: 240px;
+}
+
+.formDonante{ /*caja formulario*/
+  padding: 0px 20px;
+  background-color: rgba(0, 0, 0, .0.1);
+  height: 350px;
+  text-align: left;
+  margin-top: 30px;
+}
+
+.comedor {
+  padding: 5px 20px;
+  height: 900px;
+}
+
+.logoFundacion2{
+  width: 100px;
+  height: 100px;
+  padding: 20px
+}
+
+.pTitulo3 {
+  position: absolute;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 315px;
+  height: 90px;
+  left: 230px;
+  top: 65px;
+}
+
+.h5Form {
+  position: absolute;
+  width: 600px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 24px;
+  background-color: #F08FC0;
+  color: #ffff;
+  top: 170px;
+  left: 0px;
+}
+
+.form-minorista {
+  background-color: rgba(0, 0, 0, .1);
+  height: 700px;
+}
+
+.subForm {
+    padding: 10px -30px;
+}
+
+.subForm:hover {
+  padding: 10px 30px;
+}
+
+
+.contSb {
+  position: absolute;
+  top: 800px;
+  left: 270px;
+}
+
+/*containerCheck.tsk*/
+
+.check-bool {
+  display: flex;
+  position: absolute;
+  top: 250px;
+  left: 90px;
+}
+
+.h6Form {
+  position: absolute;
+  width: 612px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 28px;
+  background-color: #F08FC0;
+  color: #ffff;
+  top: 200px;
+  left: 0px;
+}
+
+.minForm2 {
+  background-color: rgba(0, 0, 0, .1);
+  height: 415px;
+  padding: 20px 40px;
+  text-align: left;
+  margin-top: 30px;
+}
+
+.chek {
+  padding-top: 10px ;
+  background-color: rgba(0, 0, 0, .1);
+  height: 500px;
+}
+
+.conditionDonateFood, .conditionDonateOther {
+  margin-left: 40px;
+}
+
+.conditionDonateFood2 {
+  margin-top: 20px;
+}
+
+.conditionDonateOther2 {
+  margin-top: 30px;
+  padding-left: 40px;
+}
+
+.subFor2{
+  padding-left: 30px;
+}
+
+.check-form {
+  margin-top: 30px;
+  padding-left: 110px;
+}
+
+.conditionSb {
+  position: absolute;
+  top: 1000px;
+  left: 270px;
+}
+
+/*companyForm.tsk*/
+.pTitulo4 {
+  position: absolute;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 315px;
+  height: 90px;
+  left: 230px;
+  top: 65px;
+}

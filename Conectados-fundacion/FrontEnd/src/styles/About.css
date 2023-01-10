@@ -1,0 +1,87 @@
+:root {
+  --one-hundred-percent: 100%;
+}
+
+.headerAbout {
+  margin-top: -49px;
+  width: var(--one-hundred-percent);
+  height: 600px;
+}
+
+.containerAbout {
+  width: var(--one-hundred-percent);
+}
+
+.containerHeaderAbout {
+  width: var(--one-hundred-percent);
+  background-color: #d4f9fb;
+}
+
+.titleAbout {
+  margin-left: -300px;
+  padding: 20px 0px 0px 700px;
+  width: var(--one-hundred-percent);
+  font-weight: 800;
+  font-size: 72px;
+  text-align: center;
+  display: flex;
+}
+
+.paragraphAbout {
+  width: 80%;
+  height: 80px;
+  padding-left: 340px;
+  font-weight: var(--font--weight);
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 25px;
+}
+
+.bodyAbout {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.imgAbout {
+  padding: 40px 0px 30px 0px;
+  height: 90%;
+  width: var(--one-hundred-percent);
+}
+
+.paragraphs {
+  margin-left: -100px;
+  padding-left: 30%;
+}
+
+.titleOneAbout {
+  padding-top: 60px;
+}
+
+.titletwoAbout {
+  margin-top: -160px;
+}
+.titlethreeAbout {
+  margin-top: -90px;
+}
+
+.titlesparagraphs {
+  color: #2EC5CE;
+}
+
+/*
+@media screen and (min-width: 769px) and (max-width: 1366px) {
+  .titleAbout {
+    margin-left: -250px;
+  }
+  .imgAbout {
+    height: 90.7%;
+  }
+  .paragraphs {
+    margin-left: -100px;
+  }
+}
+*/
