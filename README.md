@@ -4,12 +4,8 @@ Link de deploy: https://conectados-fundacion.netlify.app/
 ## Descripción
 
 Este repositorio contiene el proyecto final desarrollado en  `Fundación Pescar - JPMorgan`.
-Este proyecto consiste en generar un control del stock de alimentos que se recibe mediante donaciones
-en la Ciudad de La Plata. Estas donaciones pueden ser de empresas o de ciudadanos de la ciudad.
-El objetivo es controlar el stock de alimentos para conocer en que rubro alimenticio hay déficit,
-orientar las donaciones hacia ese déficit y mejorar así la red solidaria local.
-
-
+Este proyecto consiste en donaciones/voluntariados para comedores de la Ciudad de La Plata. 
+Estas donaciones pueden ser de empresas o de ciudadanos.
 
 Si quieres correr este proyecto de forma local debes seguir los siguientes pasos:
 1. Descargá el proyecto de este repositorio.
